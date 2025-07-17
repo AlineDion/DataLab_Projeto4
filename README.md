@@ -12,16 +12,16 @@ Uma série de hipóteses foi formulada sobre os fatores que podem influenciar as
 
 Para investigar esse problema, foram consideradas as seguintes hipóteses:
 
-1– Produtos com maiores descontos apresentam notas médias mais altas.
-2– Produtos avaliados por um maior número de pessoas recebem classificações mais altas.
-3– Produtos com preços originais mais elevados recebem avaliações melhores.
-4– Produtos com preços mais altos possuem valores absolutos de desconto maiores (em R$).
+1. Produtos com maiores descontos apresentam notas médias mais altas.  
+2. Produtos avaliados por um maior número de pessoas recebem classificações mais altas.  
+3. Produtos com preços originais mais elevados recebem avaliações melhores.  
+4. Produtos com preços mais altos possuem valores absolutos de desconto maiores (em R$).
 
 ## Ferramentas e Tecnologias
 
 - **Linguagem:** Python
 - **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLTK
-- **Fonte dos Dados: arquivos CSV processados localmente
+- **Fonte dos Dados**: arquivos CSV processados localmente
 - **Visualização de Dados:** Matplotlib e Seaborn (gráficos estáticos para análise exploratória)
 - **Ambiente de Desenvolvimento:** Google Colab - (`DataLab_Projeto4.ipynb`)
 
