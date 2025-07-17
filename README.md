@@ -28,13 +28,13 @@ Para investigar esse problema, foram consideradas as seguintes hipóteses:
 ## Estrutura do Repositório
 
 - `dados_brutos/`: Contém os arquivos CSV originais que foram fornecidos para a análise.
-  - [`amazon_product.csv`](amazon_product.csv)
-  - [`amazon_review.csv`](amazon_review.csv)
+  - [`amazon_product.csv`](dados_brutos/amazon_product.csv)
+  - [`amazon_review.csv`](dados_brutos/amazon_review.csv)
 - `documentacao/`: Contém documentos explicativos sobre o projeto.
-  - [`apresentacao_datalab.pdf`](apresentacao_datalab.pdf) — Apresentação do projeto com um resumo visual dos insights.
-  - [`ficha_tecnica_codigos.ipynb`](ficha_tecnica_codigos.ipynb) — Ficha técnica com os códigos Python utilizados durante o projeto.
-  - [`ficha_tecnica_datalab.pdf`](ficha_tecnica_datalab.pdf) — Ficha técnica do projeto detalhando o processo e resultados.
-  - [`relatorio_datalab.pdf`](relatorio_datalab.pdf) — Relatório estratégico com os resultados do projeto.
+  - [`apresentacao_datalab.pdf`](documentacao/apresentacao_datalab.pdf) — Apresentação do projeto com um resumo visual dos insights.
+  - [`ficha_tecnica_codigos.ipynb`](documentacao/ficha_tecnica_codigos.ipynb) — Ficha técnica com os códigos Python utilizados durante o projeto.
+  - [`ficha_tecnica_datalab.pdf`](documentacao/ficha_tecnica_datalab.pdf) — Ficha técnica do projeto detalhando o processo e resultados.
+  - [`relatorio_datalab.pdf`](documentacao/relatorio_datalab.pdf) — Relatório estratégico com os resultados do projeto.
 - [`DataLab_Projeto4.ipynb`](DataLab_Projeto4.ipynb) — Notebook com análises exploratórias, testes de hipóteses e regressões.
 
 ## Metodologia
