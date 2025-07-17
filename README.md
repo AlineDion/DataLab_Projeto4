@@ -21,7 +21,7 @@ Para investigar esse problema, foram consideradas as seguintes hipóteses:
 
 - **Linguagem:** Python
 - **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLTK
-- **Fonte dos Dados**: arquivos CSV processados localmente
+- **Fonte dos Dados**: Arquivos CSV processados localmente
 - **Visualização de Dados:** Matplotlib e Seaborn (gráficos estáticos para análise exploratória)
 - **Ambiente de Desenvolvimento:** Google Colab - (`DataLab_Projeto4.ipynb`)
 
@@ -41,7 +41,7 @@ Para investigar esse problema, foram consideradas as seguintes hipóteses:
 
 - **Coleta e Consolidação:** Dados carregados, processados e consolidados. Foram tratadas variáveis como preço real (actual_price), percentual de desconto, categorias e número de avaliações.
   
-- **Tratamento:** Remoção de duplicatas, tratamento de valores nulos, padronização de formatos (datas) e seleção estratégica de colunas.
+- **Tratamento:** Remoção de duplicatas, tratamento de valores nulos, padronização de formatos (datas).
 
 - **Análise Exploratória:** Gráficos de dispersão, boxplots e histogramas foram utilizados para explorar a relação entre variáveis-chave e o rating.
 
