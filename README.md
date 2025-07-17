@@ -67,7 +67,7 @@ Para investigar esse problema, foram consideradas as seguintes hipóteses:
 - **Categoria como fator-chave:** A categoria do produto impacta mais as avaliações do que preço ou desconto isoladamente, com Computers&Accessories e OfficeProducts apresentando melhor desempenho.
 
 
-*Os resultados completos das análises e as recomendações estratégicas na [Ficha Técnica](/documentacao/ficha_tecnica_datalab.pdf).*
+👉 *Os resultados completos das análises e as recomendações estratégicas na [Ficha Técnica](/documentacao/ficha_tecnica_datalab.pdf).*
 
 
 ## Responsáveis pelo Projeto
