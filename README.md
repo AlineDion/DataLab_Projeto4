@@ -67,16 +67,17 @@ Para investigar esse problema, foram consideradas as seguintes hipóteses:
 - **Categoria como fator-chave:** A categoria do produto impacta mais as avaliações do que preço ou desconto isoladamente, com Computers&Accessories e OfficeProducts apresentando melhor desempenho.
 
 
+
 👉 *Os resultados completos das análises e as recomendações estratégicas na [Ficha Técnica](/documentacao/ficha_tecnica_datalab.pdf).*
 
 
 ## Responsáveis pelo Projeto
 
-| Nome           | Função           | Contato                                                                                                 |
-|----------------|------------------|--------------------------------------------------------------------------------------------------------|
-| Aline Dionizio | Analista de Dados| [LinkedIn](https://www.linkedin.com/in/aline-dionizio/) \| [Email](mailto:alinedioniziosilva@outlook.com) \| [GitHub](https://github.com/AlineDion)  |
-| Taiza Ferreira | Analista de Dados| [LinkedIn](https://www.linkedin.com/in/taiza-ferreira-dados/) \| [Email](mailto:taiza.desouza@yahoo.com.br) \| [GitHub](https://github.com/TaizaFerreira) |
-| Giullia Braga  | Analista de Dados| [LinkedIn](https://www.linkedin.com/in/bragagiu/) \| [Email](mailto:giubraga98@gmail.com) \| [GitHub](https://github.com/BragaGiu) |
+| Nome           | Contato                                                                                                 |
+|----------------|--------------------------------------------------------------------------------------------------------|
+| Aline Dionizio | [LinkedIn](https://www.linkedin.com/in/aline-dionizio/) \| [Email](mailto:alinedioniziosilva@outlook.com) \| [GitHub](https://github.com/AlineDion)  |
+| Taiza Ferreira | [LinkedIn](https://www.linkedin.com/in/taiza-ferreira-dados/) \| [Email](mailto:taiza.desouza@yahoo.com.br) \| [GitHub](https://github.com/TaizaFerreira) |
+| Giullia Braga  | [LinkedIn](https://www.linkedin.com/in/bragagiu/) \| [Email](mailto:giubraga98@gmail.com) \| [GitHub](https://github.com/BragaGiu) |
 
 
 
