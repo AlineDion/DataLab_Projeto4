@@ -75,9 +75,9 @@ Para investigar esse problema, foram consideradas as seguintes hipóteses:
 
 | Nome           | Contato                                                                                                 |
 |----------------|--------------------------------------------------------------------------------------------------------|
-| Aline Dionizio | [LinkedIn](https://www.linkedin.com/in/aline-dionizio/) \| [Email](mailto:alinedioniziosilva@outlook.com) \| [GitHub](https://github.com/AlineDion)  |
-| Taiza Ferreira | [LinkedIn](https://www.linkedin.com/in/taiza-ferreira-dados/) \| [Email](mailto:taiza.desouza@yahoo.com.br) \| [GitHub](https://github.com/TaizaFerreira) |
-| Giullia Braga  | [LinkedIn](https://www.linkedin.com/in/bragagiu/) \| [Email](mailto:giubraga98@gmail.com) \| [GitHub](https://github.com/BragaGiu) |
+| Aline Dionizio | [LinkedIn](https://www.linkedin.com/in/aline-dionizio/) \| [GitHub](https://github.com/AlineDion)  |
+| Taiza Ferreira | [LinkedIn](https://www.linkedin.com/in/taiza-ferreira-dados/) \| [GitHub](https://github.com/TaizaFerreira) |
+| Giullia Braga  | [LinkedIn](https://www.linkedin.com/in/bragagiu/) \| [GitHub](https://github.com/BragaGiu) |
 
 
 
